@@ -1,0 +1,11 @@
+/Users/jeremy/Build/cs2040/Challenge2/bin/Debug/netcoreapp2.2/Challenge2.deps.json
+/Users/jeremy/Build/cs2040/Challenge2/bin/Debug/netcoreapp2.2/Challenge2.runtimeconfig.json
+/Users/jeremy/Build/cs2040/Challenge2/bin/Debug/netcoreapp2.2/Challenge2.runtimeconfig.dev.json
+/Users/jeremy/Build/cs2040/Challenge2/bin/Debug/netcoreapp2.2/Challenge2.dll
+/Users/jeremy/Build/cs2040/Challenge2/bin/Debug/netcoreapp2.2/Challenge2.pdb
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.csprojAssemblyReference.cache
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.csproj.CoreCompileInputs.cache
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.AssemblyInfoInputs.cache
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.AssemblyInfo.cs
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.dll
+/Users/jeremy/Build/cs2040/Challenge2/obj/Debug/netcoreapp2.2/Challenge2.pdb
