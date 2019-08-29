@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{D4F99A7E-BA7C-454E-BE60-30DC5D32FB1D}|Default">
-  <MonoDevelop.Ide.ItemProperties.cSharpBasics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.cSharpBasics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="cSharpBasics/Program.cs">
     <Files>
-      <File FileName="cSharpBasics/Program.cs" Line="92" Column="1" />
+      <File FileName="cSharpBasics/Program.cs" Line="9" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
