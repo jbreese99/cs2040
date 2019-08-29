@@ -1,0 +1,11 @@
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/bin/Debug/netcoreapp2.2/cSharpBasics.deps.json
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/bin/Debug/netcoreapp2.2/cSharpBasics.runtimeconfig.json
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/bin/Debug/netcoreapp2.2/cSharpBasics.runtimeconfig.dev.json
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/bin/Debug/netcoreapp2.2/cSharpBasics.dll
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/bin/Debug/netcoreapp2.2/cSharpBasics.pdb
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.csprojAssemblyReference.cache
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.csproj.CoreCompileInputs.cache
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.AssemblyInfoInputs.cache
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.AssemblyInfo.cs
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.dll
+/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/Debug/netcoreapp2.2/cSharpBasics.pdb

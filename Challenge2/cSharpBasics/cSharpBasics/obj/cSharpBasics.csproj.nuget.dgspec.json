@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/cSharpBasics.csproj": {}
+  },
+  "projects": {
+    "/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/cSharpBasics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/cSharpBasics.csproj",
+        "projectName": "cSharpBasics",
+        "projectPath": "/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/cSharpBasics.csproj",
+        "packagesPath": "/Users/jeremy/.nuget/packages/",
+        "outputPath": "/Users/jeremy/Build/cs2040/Challenge2/cSharpBasics/cSharpBasics/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jeremy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
