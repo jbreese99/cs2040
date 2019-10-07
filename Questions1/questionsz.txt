@@ -1,0 +1,77 @@
+Q: What is a namespace?
+    A: Namespace is your program's name. It is used when referenceing variables from the .NET console.
+Q: What are value types?
+    A: These are variables that can be assigned values directly. For example, a string is not a value type, because it is just a 'string' of chars which are a value type
+Q: What are reference types?
+    A: Reference types are variables that maintain a pointer to the data rather than the data itself. A string is this because it is a linked list of chars, but the actual string variable just holds the pointe to the first element
+Q: What is an automatic property and how is it useful?
+    A: It is functionality built into C# for commonly used properties and putting them directly into the syntax, such as a string getters and setters
+Q: What is the purpose of using statement?
+    A: A using statement gives the program the scope of the variable being referenced. This is useful when accessing object members
+Q: What are dynamic type variables?
+    A: A dynamic variable allows the compiler to determine what type of variable it is based on how it is used.
+Q: What is the purpose of the is operator?
+    A: To check if an object can be cast into a different type of object
+Q: What are generics and how is using them useful?
+    A: A way to put object or variable types into the parameter of a function. They are useful because they allow user defined object to be a parameter
+Q: What is the scope of a public member of a class?
+    A: A public member can be accessed outside the class
+Q: Can you create a function that can accept a varying number of arguments?
+    A: Yes, using the params jeyword it will take an array of arguments
+Q: How do you sort an array?
+    A: Array.sort()
+Q: What is a nullable type and what purpose does it serve?
+    A: IT allows a data type to have a null property with it and is useful because it allows the user to check if the data is valid or not
+Q: What is an enumeration?
+    A: A user defined variable that allows them to define types. An example is a gender of MALE and FEMALE
+Q: What is inheritance?
+    A: Allowig a subclass to exist and pull in all methods of the superclass. For example a PET has a getName() method, but a DOG which inherits from PET has getName() as well as bark()
+Q: Is multiple inheritance supported?
+    A: No
+Q: What is the purpose of as operator
+    A: To convert an object to a different type if possible, otherwise it returns null
+Q: What is an object?
+    A: A set of related dta with defined methods. 
+Q: What is the difference between a struct and a class?
+    A: A struct is value typed, and a class is reference typed
+Q: What is the difference between continue and break statements?
+    A: A continue statement will skip the current loop of the iteration, whereas a break will exit the loop completely
+Q: What is this and how is it used?
+    A: This references the current object. It is useful when using getters and setters
+Q: What is try and catch and when are they used?
+    A: A try catch is used to handle an exception and the programmer can decide if the exception is severe enough to kill the program or just move on. They are used when the exception is caused by user input
+Q: How is exception handling done?
+    A: By catching it and providing an alternative route. If an exception was thrown for a file being opened, it would prompt the user to enter a different file
+Q: What is finally and what is its purpose?
+    A:
+Q: List the differences between Array and ArrayList.
+    A: An array uses the [] syntax, arraylist uses arrayList.get(x). An array's size is defined when it is created whereas an arraylists size is dynamic, meaning it can grow and shrink.
+Q: What is an object?
+    A: A set of related dta with defined methods. 
+Q: Define constructor.
+    A: A constructor is a template for creating an object. A constructor takes in arguments and then assigns them to the members of the class.
+Q: When can var be used to declare a variable and how is the type for the variable determined?
+    A: A var is a generic variable type and it's type is determined when it is given an assignment.
+Q: What is an abstract class?
+    A: A class that cannot be instantiated, it is used only as a superclass.
+Q: What is an interface?
+    A: A set of requirements that a class must follow. Useful for defining that all subclasses should have the same methods. 
+Q: What is a method?
+    A: A method is an operation that can be called on an object. Common methods are getters and setters. 
+Q: What is a property?
+    A: A property is just another term for getters and setters. These allow access to a member through a method.
+Q: What is an access specifier?
+    A: An access specifier defines where a member of an object can be referenced from. 
+Q: What access specifiers are supported and what do they mean?
+    A: Private can only be referenced in its own class. Public can be accessed from anywhere. Protected can be accessed by its own class and any children classes. Internal access is anywhere in the program within the namespace. Protected internal is in the same namespace and any derived subclasses
+Q: What is a collection?
+    A: A way to store data within a specific datatype. These datatypes include queues, stacks, and arraylists among others. 
+Q: What is a Hash Table?
+    A: A hash table is an array that stores objects that are modified by a key. This makes retrieval faster than searching for the specific object. 
+
+
+    https://www.tutorialspoint.com/csharp/csharp_data_types.htm
+    https://gunnarpeipman.com/csharp-automatic-properties/
+    https://www.geeksforgeeks.org/c-sharp-generics-introduction/
+    https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties
+    http://csharp.net-informations.com/language/csharp-access-specifiers.htm
