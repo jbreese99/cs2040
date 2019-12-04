@@ -1,0 +1,11 @@
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.csprojAssemblyReference.cache
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.csproj.CoreCompileInputs.cache
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.AssemblyInfoInputs.cache
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.AssemblyInfo.cs
+/Users/jeremy/Build/cs2040/FinalProject/bin/Debug/netcoreapp2.2/FinalProject.deps.json
+/Users/jeremy/Build/cs2040/FinalProject/bin/Debug/netcoreapp2.2/FinalProject.runtimeconfig.json
+/Users/jeremy/Build/cs2040/FinalProject/bin/Debug/netcoreapp2.2/FinalProject.runtimeconfig.dev.json
+/Users/jeremy/Build/cs2040/FinalProject/bin/Debug/netcoreapp2.2/FinalProject.dll
+/Users/jeremy/Build/cs2040/FinalProject/bin/Debug/netcoreapp2.2/FinalProject.pdb
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.dll
+/Users/jeremy/Build/cs2040/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.pdb
